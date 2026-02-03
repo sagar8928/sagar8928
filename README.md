@@ -3,16 +3,36 @@
 scalable, reliable backend systems, with a strong focus on backend architecture and production-grade system design.
 **
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sagardhebe12yt@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-- 🔭 **I’m currently working on:**  
+  Building an AI-powered chatbot application with a MERN stack backend, focusing on scalable APIs, authentication, and efficient data handling.
+
+- 🌱 **I’m currently learning:**
+-  Full-stack system design, cloud-native application architecture, and integrating AI services
+  into production-ready web applications.
+
+- 👯 **I’m looking to collaborate on:**  
+  End-to-end MERN stack applications, and scalable web systems.
+
+- 🤔 **I’m looking for help with:**  
+   Designing large-scale full-stack architectures and improving performance, reliability,
+  and data consistency across distributed systems.
+
+- 💬 **Ask me about:**  
+  Full-stack MERN development (React, Node.js, MongoDB),
+  frontend performance, backend API design,
+  and working with both SQL and NoSQL databases.
+
+- 📫 **How to reach me:**  
+  **Email:** sagardhebe12yt@gmail.com
+
+- 😄 **Pronouns:**  
+  He / Him
+
+- ⚡ **Fun fact:**  
+  I enjoy turning complex backend problems into simple, scalable solutions.
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagardhebe12yt@gmail.com) 
