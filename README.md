@@ -6,7 +6,7 @@ scalable, reliable backend systems, with a strong focus on backend architecture 
 Email Me 👉 ✉️ **sagardhebe12yt@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 -- 🔭 **I’m currently working on:**  
-  Building an AI-powered chatbot application with a MERN stack backend, focusing on scalable APIs, authentication, and efficient data handling.
+   Building an AI-powered chatbot application with a MERN stack backend, focusing on scalable APIs, authentication, and efficient data handling.
 
 - 🌱 **I’m currently learning:**  
   Full-stack system design, cloud-native application architecture, and integrating AI services
