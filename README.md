@@ -37,10 +37,6 @@ Email Me 👉 ✉️ **sagardhebe12yt@gmail.com** For Collaboration/Project or A
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
