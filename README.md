@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **sagardhebe12yt@gmail.com** For Collaboration/Project or A
   Building an AI-powered chatbot application with a MERN stack backend, focusing on scalable APIs, authentication, and efficient data handling.
 
 - 🌱 **I’m currently learning:**
--  Full-stack system design, cloud-native application architecture, and integrating AI services
+   Full-stack system design, cloud-native application architecture, and integrating AI services
   into production-ready web applications.
 
 - 👯 **I’m looking to collaborate on:**  
